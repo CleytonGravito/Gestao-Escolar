@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9C5F560-708C-41BD-8ABF-6CE4CB2B0176}|BibliotecaEntidade\\BibliotecaEntidade.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\bibliotecaentidade\\classeentidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C5F560-708C-41BD-8ABF-6CE4CB2B0176}|BibliotecaEntidade\\BibliotecaEntidade.csproj|solutionrelative:bibliotecaentidade\\classeentidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B30E1AB5-8D25-4927-BAA0-41FB21A0EC6E}|BibliotecaNegocio\\BibliotecaNegocio.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\bibliotecanegocio\\classenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B30E1AB5-8D25-4927-BAA0-41FB21A0EC6E}|BibliotecaNegocio\\BibliotecaNegocio.csproj|solutionrelative:bibliotecanegocio\\classenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA1AC069-E738-4A43-9A14-E12DB066D115}|BibliotecaDados\\BibliotecaDados.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\bibliotecadados\\classedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1AC069-E738-4A43-9A14-E12DB066D115}|BibliotecaDados\\BibliotecaDados.csproj|solutionrelative:bibliotecadados\\classedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\gestao-escolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|solutionrelative:gestao-escolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -31,45 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClasseEntidade.cs",
-              "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaEntidade\\ClasseEntidade.cs",
-              "RelativeDocumentMoniker": "BibliotecaEntidade\\ClasseEntidade.cs",
-              "ToolTip": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaEntidade\\ClasseEntidade.cs",
-              "RelativeToolTip": "BibliotecaEntidade\\ClasseEntidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T05:02:06.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClasseNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaNegocio\\ClasseNegocio.cs",
-              "RelativeDocumentMoniker": "BibliotecaNegocio\\ClasseNegocio.cs",
-              "ToolTip": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaNegocio\\ClasseNegocio.cs",
-              "RelativeToolTip": "BibliotecaNegocio\\ClasseNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T05:00:07.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClasseDados.cs",
-              "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaDados\\ClasseDados.cs",
-              "RelativeDocumentMoniker": "BibliotecaDados\\ClasseDados.cs",
-              "ToolTip": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaDados\\ClasseDados.cs",
-              "RelativeToolTip": "BibliotecaDados\\ClasseDados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T04:58:11.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\Gestao-Escolar\\Form1.cs",
               "RelativeDocumentMoniker": "Gestao-Escolar\\Form1.cs",
