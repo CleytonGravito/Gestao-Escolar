@@ -1,0 +1,6 @@
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\BibliotecaEntidade\bin\Debug\BibliotecaEntidade.dll
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\BibliotecaEntidade\bin\Debug\BibliotecaEntidade.pdb
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\BibliotecaEntidade\obj\Debug\BibliotecaEntidade.csproj.AssemblyReference.cache
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\BibliotecaEntidade\obj\Debug\BibliotecaEntidade.csproj.CoreCompileInputs.cache
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\BibliotecaEntidade\obj\Debug\BibliotecaEntidade.dll
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\BibliotecaEntidade\obj\Debug\BibliotecaEntidade.pdb
