@@ -20,10 +20,5 @@ namespace BibliotecaNegocio
         {
             return clsdados.DLogin(obje);
         }
-
-        public DataTable N_Login(ClasseNegocio clsuser)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

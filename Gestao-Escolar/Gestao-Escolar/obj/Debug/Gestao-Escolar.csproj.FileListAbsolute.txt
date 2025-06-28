@@ -6,10 +6,14 @@ C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\bin\Debug
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\bin\Debug\BibliotecaEntidade.pdb
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\bin\Debug\BibliotecaNegocio.pdb
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao-Escolar.csproj.AssemblyReference.cache
-C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao_Escolar.Form1.resources
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao_Escolar.Properties.Resources.resources
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao-Escolar.csproj.GenerateResource.cache
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao-Escolar.csproj.CoreCompileInputs.cache
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao-E.75BDFD6C.Up2Date
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao-Escolar.exe
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao-Escolar.pdb
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao-Escolar.exe.config
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao_Escolar.Login.resources
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\bin\Debug\BibliotecaDados.dll
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\bin\Debug\BibliotecaDados.pdb
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao_Escolar.FrmPrincipal.resources

@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
@@ -60,8 +60,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -110,6 +113,57 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\academico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudando.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudante-masculino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apresentacao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palestra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\curso-online %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\curso-online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adicionar-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redefinir-senha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relatorio-de-negocios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\metrica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafico-de-barras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

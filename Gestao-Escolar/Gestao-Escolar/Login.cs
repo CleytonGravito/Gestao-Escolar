@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,17 +13,17 @@ using BibliotecaNegocio;
 
 namespace Gestao_Escolar
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        ClasseNegocio clsuser = new ClasseNegocio();
-        ClasseEntidade clsent = new ClasseEntidade();
+        ClasseEntidade clsuser = new ClasseEntidade();
+        ClasseNegocio clsent = new ClasseNegocio();
         public static string usuario_nome;
         public static string id_tipo;
         public static string usuario_geral;
         public static string usuario_codigo;
 
         FrmPrincipal f= new FrmPrincipal();
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
@@ -50,11 +51,11 @@ namespace Gestao_Escolar
             clsuser.usuario = textBox1.Text;
             clsuser.senha = textBox2.Text;
 
-            dt = clsuser.N_Login(clsuser);
+            dt = clsent.N_Login(clsuser);
 
             if (dt.Rows.Count > 0)
             {
-                MessageBox.Show("Bem Vindo" + dt.Rows[0][0].ToString(), "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Bem Vindo! " + dt.Rows[0][0].ToString(), "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 usuario_nome = dt.Rows[0][0].ToString();
                 id_tipo = dt.Rows[0][1].ToString();
                 usuario_geral = dt.Rows[0][2].ToString();
@@ -65,9 +66,14 @@ namespace Gestao_Escolar
              }
             else
             {
-                MessageBox.Show("Usuario ou senha incorretos", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Usuário ou senha incorretos!", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Limpar();
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
