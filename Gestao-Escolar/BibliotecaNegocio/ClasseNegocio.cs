@@ -24,7 +24,7 @@ namespace BibliotecaNegocio
         {
             return clsdados.D_buscarUsuario(obje);
         }
-        public DataTable N_listarusuario(ClasseEntidade obje)
+        public DataTable N_listar_usuario(ClasseEntidade obje)
         {
             return clsdados.D_ListarUsuario(obje);
         }

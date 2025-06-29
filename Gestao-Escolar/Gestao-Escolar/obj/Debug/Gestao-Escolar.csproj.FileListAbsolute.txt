@@ -17,3 +17,4 @@ C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\bin\Debug\BibliotecaDados.dll
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\bin\Debug\BibliotecaDados.pdb
 C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao_Escolar.FrmPrincipal.resources
+C:\Users\CINF\Desktop\Gestao-Escolar-TCC\Gestao-Escolar\Gestao-Escolar\obj\Debug\Gestao_Escolar.FrmUsuario.resources

@@ -30,10 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.lblusuario = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.lbldata = new System.Windows.Forms.Label();
+            this.lblusuario = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
@@ -42,6 +42,7 @@
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
@@ -51,7 +52,6 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
@@ -73,8 +73,18 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(800, 45);
+            this.panel1.Size = new System.Drawing.Size(800, 54);
             this.panel1.TabIndex = 8;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Rockwell Extra Bold", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(209, 10);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(396, 32);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Gerenciamento Escolar";
             // 
             // panel2
             // 
@@ -87,15 +97,15 @@
             this.panel2.Size = new System.Drawing.Size(800, 39);
             this.panel2.TabIndex = 9;
             // 
-            // label1
+            // lbldata
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Rockwell Extra Bold", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(209, 6);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(396, 32);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Gerenciamento Escolar";
+            this.lbldata.AutoSize = true;
+            this.lbldata.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbldata.Location = new System.Drawing.Point(638, 12);
+            this.lbldata.Name = "lbldata";
+            this.lbldata.Size = new System.Drawing.Size(80, 17);
+            this.lbldata.TabIndex = 5;
+            this.lbldata.Text = "00/00/0000";
             // 
             // lblusuario
             // 
@@ -106,16 +116,6 @@
             this.lblusuario.Size = new System.Drawing.Size(69, 17);
             this.lblusuario.TabIndex = 1;
             this.lblusuario.Text = "lblusuario";
-            // 
-            // lbldata
-            // 
-            this.lbldata.AutoSize = true;
-            this.lbldata.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbldata.Location = new System.Drawing.Point(638, 12);
-            this.lbldata.Name = "lbldata";
-            this.lbldata.Size = new System.Drawing.Size(80, 17);
-            this.lbldata.TabIndex = 5;
-            this.lbldata.Text = "00/00/0000";
             // 
             // label7
             // 
@@ -206,11 +206,15 @@
             this.label14.TabIndex = 16;
             this.label14.Text = "Deslogar";
             // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // pictureBox9
             // 
             this.pictureBox9.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox9.Image = global::Gestao_Escolar.Properties.Resources.cancelar__3_;
-            this.pictureBox9.Location = new System.Drawing.Point(753, 5);
+            this.pictureBox9.Location = new System.Drawing.Point(752, 10);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(41, 35);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -314,10 +318,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // timer1
-            // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // FrmPrincipal
             // 

@@ -61,7 +61,7 @@ as select id_usuario,u.nome,nome_usuario,t.id_tipo,nome_tipo as Tipo from usuari
 where t.id_tipo=u.id_tipo and nome like @nome
 go
 
-create procedure sp_buscar_listar
+create procedure sp_listar_usuario
 as select id_usuario,u.nome,nome_usuario,t.id_tipo,nome_tipo as Tipo from usuario u, Tipo t
 where t.id_tipo=u.id_tipo order by id_usuario
 go
