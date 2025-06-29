@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DA1AC069-E738-4A43-9A14-E12DB066D115}|BibliotecaDados\\BibliotecaDados.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\bibliotecadados\\classedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1AC069-E738-4A43-9A14-E12DB066D115}|BibliotecaDados\\BibliotecaDados.csproj|solutionrelative:bibliotecadados\\classedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30E1AB5-8D25-4927-BAA0-41FB21A0EC6E}|BibliotecaNegocio\\BibliotecaNegocio.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\bibliotecanegocio\\classenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30E1AB5-8D25-4927-BAA0-41FB21A0EC6E}|BibliotecaNegocio\\BibliotecaNegocio.csproj|solutionrelative:bibliotecanegocio\\classenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\gestao-escolar\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|solutionrelative:gestao-escolar\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\gestao-escolar\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\gestao-escolar\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|solutionrelative:gestao-escolar\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|c:\\users\\cinf\\desktop\\gestao-escolar-tcc\\gestao-escolar\\gestao-escolar\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\gestao-escolar\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FB02393-6208-4098-B3B9-811B81296FB2}|Gestao-Escolar\\Gestao-Escolar.csproj|solutionrelative:gestao-escolar\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ClasseNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaNegocio\\ClasseNegocio.cs",
+              "RelativeDocumentMoniker": "BibliotecaNegocio\\ClasseNegocio.cs",
+              "ToolTip": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaNegocio\\ClasseNegocio.cs",
+              "RelativeToolTip": "BibliotecaNegocio\\ClasseNegocio.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:42:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClasseDados.cs",
+              "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaDados\\ClasseDados.cs",
+              "RelativeDocumentMoniker": "BibliotecaDados\\ClasseDados.cs",
+              "ToolTip": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\BibliotecaDados\\ClasseDados.cs",
+              "RelativeToolTip": "BibliotecaDados\\ClasseDados.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:38:38.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\Gestao-Escolar\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "Gestao-Escolar\\FrmPrincipal.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FrmPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\Gestao-Escolar\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "Gestao-Escolar\\FrmPrincipal.cs",
@@ -51,15 +85,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\Gestao-Escolar\\Login.cs",
               "RelativeDocumentMoniker": "Gestao-Escolar\\Login.cs",
               "ToolTip": "C:\\Users\\CINF\\Desktop\\Gestao-Escolar-TCC\\Gestao-Escolar\\Gestao-Escolar\\Login.cs [Design]",
               "RelativeToolTip": "Gestao-Escolar\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T04:37:02.574Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-26T04:37:02.574Z"
             }
           ]
         }
